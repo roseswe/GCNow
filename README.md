@@ -1,4 +1,4 @@
-// @(#) $Id: README.md,v 1.3 2026/03/21 20:44:43 ralph Exp $
+// @(#) $Id: README.md,v 1.4 2026/03/21 21:00:07 ralph Exp $
 
 # GC-Now App!
 
