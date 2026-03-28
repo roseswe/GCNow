@@ -1,5 +1,6 @@
-// @(#) $Id: MainActivity.kt,v 1.5 2026/03/21 20:44:42 ralph Exp $
-// $Header: /home/cvs/src/android/GCNow/MainActivity.kt,v 1.5 2026/03/21 20:44:42 ralph Exp $
+// @(#) $Id: MainActivity.kt,v 1.7 2026/03/28 18:02:27 ralph Exp $
+// $Header: /home/cvs/src/android/GCNow/MainActivity.kt,v 1.7 2026/03/28 18:02:27 ralph Exp $
+// About Dialog with version number ~ line 278
 
 package com.example.rose_swe
 
@@ -183,7 +184,7 @@ fun MainScreen() {
                         onClick = { scope.launch { drawerState.close() }; showColorDialog = true }
                     )
                     NavigationDrawerItem(
-                        label = { Text("Über") },
+                        label = { Text("About/Über") },
                         selected = false,
                         icon = { Icon(Icons.Default.Info, null) },
                         colors = menuColors,
@@ -271,12 +272,14 @@ fun MainScreen() {
         AlertDialog(
             onDismissRequest = { showAboutDialog = false },
             confirmButton = { TextButton(onClick = { showAboutDialog = false }) { Text("OK") } },
-            title = { Text("Über GC Now!") },
+            title = { Text("About/Über GC Now!") },
             text = {
                 Text("Geocaching Tool\n(C) by ROSE_SWE, Ralph Roth\n\n" +
-                        "Build Date: 21.03.2026\n" +
+                        "Build Date: 28.03.2026\n" +
                         "Support: Android 12-16\n" +
-                        "Features: Dark Mode, Persistence, Adaptive Layout.\n\$Id: MainActivity.kt,v 1.5 2026/03/21 20:44:42 ralph Exp $")
+                        "Features: Dark Mode, Persistence, Adaptive Layout.\n"+
+                        "\$Id: MainActivity.kt,v 1.7 2026/03/28 18:02:27 ralph Exp $\n"+
+                        "Source/APK: https://github.com/roseswe/GCNow")
             }
         )
     }

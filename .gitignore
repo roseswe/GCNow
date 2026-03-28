@@ -2,5 +2,5 @@ technical.txt
 CVS/Entries
 CVS/Repository
 CVS/Root
-app-release.apk
+*.apk
 README.html
