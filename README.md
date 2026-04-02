@@ -1,4 +1,4 @@
-<!-- // @(#) $Id: README.md,v 1.7 2026/03/28 18:46:59 ralph Exp $ -->
+<!-- // @(#) $Id: README.md,v 1.8 2026/04/02 21:11:45 ralph Exp $ -->
 
 # GC-Now App!
 
@@ -11,11 +11,43 @@ The idea behind **GC Now!** came from a practical need: to create an app that di
 
 **GC Now!** is a fast and flexible app for Android 12 and later. With its clean, high-contrast design and extensive customization options, it offers the ideal solution for anyone who wants to display real-time data in an attractive and personalized way on a mobile device. In addition to an easy switch between light and dark mode, you can customize every detail in **GC Now!** to your liking: personalize your Geocaching nickname, upload your own image, and choose the background color freely — so the app is not only functional, but also truly *yours*. The app requires no additional permissions and does not transmit any data.
 
+**Installing the APK on Android**
+
+1. **Download the APK**
+   Download the desired APK file directly from the [GCNow Releases](https://github.com/roseswe/GCNow/releases) page—either on your Android device or via PC, then transfer it to your device.
+
+2. **Prepare for Installation**
+   Open your device’s *Settings*, go to *Security* or *Apps & Notifications*, and enable installation from *Unknown Sources* for your browser or file manager.
+
+3. **Install the APK**
+   Open the downloaded file from your Downloads folder or file manager and follow the on-screen prompts to complete the installation.
+
+4. **Launch the App**
+   After successful installation, you’ll find the app in your app drawer or on the home screen, ready to use.
+
+>[!HINT] Note: Since the app is not installed via the Play Store, you will need to manually update it.
+
 ## GC Now! – Lies mich – Geocache-Helfer-App
 
 Die Idee hinter **GC Now!** entstand aus einem praktischen Bedürfnis: Eine App zu schaffen, die das aktuelle Datum und die Uhrzeit zusammen mit deinem Geocaching-Nickname anzeigt – und auf Wunsch zusätzlich deinen persönlichen Geocache-QR-Code, dein Profilbild oder dein Logo einblendet. Inspiration waren insbesondere **Virtuelle Caches**, bei denen oft ein Beweisfoto verlangt wird, auf dem dein GC-Nickname zusammen mit Datum und Cache erkennbar ist. Da ich bei spontanen Touren häufig zwei Smartphones, aber selten Papier und Stift dabeihabe, wurde die App zu meiner Lösung: Mit **GC Now!** habe ich alles Notwendige direkt griffbereit.
 
 **GC Now!** ist eine schnelle und flexible App für Android 12 und höher. Mit ihrem klaren, kontrastreichen Design und umfangreichen Anpassungsmöglichkeiten bietet sie die ideale Lösung für alle, die Echtzeitdaten ansprechend und individuell auf ihrem mobilen Gerät darstellen möchten. Neben einem einfachen Wechsel zwischen Hell- und Dunkelmodus kannst du in **GC Now!** jedes Detail nach deinen Wünschen gestalten: deinen Geocaching-Nicknamen personalisieren, ein eigenes Bild hochladen und die Hintergrundfarbe frei festlegen – damit die App nicht nur funktional, sondern auch ganz *deins* ist. Die App benötigt keine zusätzlichen Berechtigungen und überträgt keine Daten.
+
+**Installation der APK auf Android**
+
+1. **APK herunterladen**
+   Lade die gewünschte APK-Datei direkt von den [GCNow Releases](https://github.com/roseswe/GCNow/releases) herunter – entweder über dein Android-Gerät oder per PC mit anschließender Übertragung.
+
+2. **Installation vorbereiten**
+   Öffne die *Einstellungen* deines Geräts, gehe zu *Sicherheit* oder *Apps & Benachrichtigungen* und aktiviere die Installation aus *Unbekannten Quellen* für deinen Browser oder Dateimanager.
+
+3. **APK installieren**
+   Öffne die heruntergeladene Datei im Download-Ordner oder Dateimanager und bestätige die Installation mit den angezeigten Schritten.
+
+4. **App starten**
+   Nach erfolgreicher Installation findest du die App im App-Menü oder auf dem Startbildschirm und kannst sie direkt nutzen.
+
+>[!HINT] Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
 
 ## App Screen Examples
 
