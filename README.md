@@ -25,7 +25,8 @@ The idea behind **GC Now!** came from a practical need: to create an app that di
 4. **Launch the App**
    After successful installation, you’ll find the app in your app drawer or on the home screen, ready to use.
 
->[!NOTE] Note: Since the app is not installed via the Play Store, you will need to manually update it.
+>[!NOTE]
+Note: Since the app is not installed via the Play Store, you will need to manually update it.
 
 ## GC Now! – Lies mich – Geocache-Helfer-App
 
@@ -47,7 +48,8 @@ Die Idee hinter **GC Now!** entstand aus einem praktischen Bedürfnis: Eine App 
 4. **App starten**
    Nach erfolgreicher Installation findest du die App im App-Menü oder auf dem Startbildschirm und kannst sie direkt nutzen.
 
->[!NOTE] Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
+>[!NOTE]
+Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
 
 ## App Screen Examples
 
