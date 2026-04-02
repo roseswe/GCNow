@@ -2,7 +2,7 @@
 
 # GC-Now App!
 
->[!HINT]
+>[!NOTE]
 English description follows, Kurzübersicht in Deutsch weiter unten
 
 ## GC Now! – Read Me – Geocache Helper App
