@@ -1,6 +1,4 @@
-// @(#) $Id: build.gradle.kts,v 1.4 2026/03/21 20:44:43 ralph Exp $
-// $Header: /home/cvs/src/android/GCNow/build.gradle.kts,v 1.4 2026/03/21 20:44:43 ralph Exp $
-
+// $Header: /home/cvs/src/android/GCNow/build.gradle.kts,v 1.6 2026/04/22 14:12:43 ralph Exp $
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -16,7 +14,7 @@ android {
         minSdk = 31
         targetSdk = 36
         versionCode = 1
-        versionName = "1.0"
+        versionName = "2.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -60,8 +58,9 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
 
-    // ... neue Zeilen ...
-    implementation("androidx.compose.material:material-icons-extended") // Für das Photo-Icon
-    implementation("io.coil-kt:coil-compose:2.5.0") // Für das Laden von Bildern
+        // ... andere/non-standard Zeilen ...
+        implementation("androidx.compose.material:material-icons-extended") // Für das Photo-Icon
+        implementation("io.coil-kt:coil-compose:2.5.0") // Für das Laden von Bildern
+        implementation("com.google.android.gms:play-services-location:21.2.0")  // 22.04.26, GPS
 
 }
