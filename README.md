@@ -25,7 +25,7 @@ English description follows, Kurzübersicht in Deutsch weiter unten
 4. **Launch the App**
    After successful installation, you’ll find the app in your app drawer or on the home screen, ready to use.
 
->[!NOTE] Updating
+>[!NOTE]
 Note: Since the app is not installed via the Play Store, you will need to manually update it.
 
 ---
@@ -50,7 +50,8 @@ Note: Since the app is not installed via the Play Store, you will need to manual
 4. **App starten**
    Nach erfolgreicher Installation findest du die App im App-Menü oder auf dem Startbildschirm und kannst sie direkt nutzen.
 
->[!NOTE] Updates
+.
+>[!NOTE]
 Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
 
 ---
@@ -107,7 +108,7 @@ Unlike standard image pickers, **GC Now!** requests **Persistable URI Permission
 
 ## 🌍 Navigation Features
 
-GC Now! also includes geocaching-focused navigation features for easier field use.
+GCNow! also includes geocaching-focused navigation features for easier field use.
 
 * **WGS84 Standard Formatting:** Coordinates are displayed in the geocaching-friendly degrees and decimal minutes format: `DD° MM.MMM'`.
 * **Live Accuracy Meter:** Displays the GPS signal quality in meters (`+/- X m`) so users can judge the reliability of the zero point.
