@@ -91,8 +91,8 @@ zusätzlichen Berechtigungen und überträgt keine Daten.
 
 .
 
-> [!NOTE] Hinweis
-> Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
+> [!NOTE] 
+> Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
 
 ---
 
@@ -136,8 +136,6 @@ The UI uses a dynamic configuration check to switch layouts on the fly.
 - **Capture Compatibility:** Uses `ImplementationMode.COMPATIBLE` to ensure the
   live camera feed is visible in saved images.
 
-### 4. Intelligent Text Scaling (Anti-Overflow)
-
 Custom font-scaling for nicknames: 52.sp (<10 chars), 36.sp (11-15 chars),
 or 28.sp (15+ chars).
 
@@ -160,7 +158,7 @@ Permissions**. This allows the app to retain access to user-selected gallery
 images even after a full device reboot without requiring a permanent "All Files
 Access" permission.
 
-- **Data Storage:** User preferences such as Theme, Text, Background Color, and
+**Data Storage:** User preferences such as Theme, Text, Background Color, and
 Image Path are saved using `SharedPreferences` with KTX extensions for clean,
 asynchronous writing.
 
@@ -177,7 +175,7 @@ GCNow! also includes geocaching-focused navigation features for easier field use
 - **WGS84 Standard Formatting:** Coordinates are displayed in the geocaching-friendly degrees and decimal minutes format: `DD° MM.MMM'`.
 - **Live Accuracy Meter:** Displays the GPS signal quality in meters (`+/- X m.m`) so users can judge the reliability of the zero point.
 - **Dynamic Update Interval:** A customizable **GPS Refresh Slider** (1 to 10 seconds) in the settings menu lets users prioritize either fast tracking or lower battery usage.
-- **One-Tap Clipboard Copy:** A dedicated **Copy** button next to the coordinates copies the current location in single-line format for use in apps like _c:geo_, _Locus Map_, or _Google Maps_.
+
 
 ## 🛠️ Updated Technical Setup
 
