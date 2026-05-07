@@ -1,4 +1,4 @@
-<!-- // @(#) $Id: README.md,v 1.16 2026/05/03 20:16:37 ralph Exp $ -->
+<!-- // @(#) $Id: README.md,v 2.4 2026/05/05 08:32:57 ralph Exp $ -->
 
 # GC-Now App
 
@@ -91,14 +91,14 @@ zusätzlichen Berechtigungen und überträgt keine Daten.
 
 .
 
-> [!NOTE] 
+> [!NOTE]
 > Hinweis: Da die App nicht über den Play Store installiert wird, musst du Updates manuell durchführen.
 
 ---
 
 ## App Screen Examples
 
-![light](GCNow_LightMode.png "Light Mode") ![dark mode](GCNow_DarkMode.png "Dark Mode")
+![light](GCNow_LightMode.png "Light Mode") ![dark mode, with GPS co-ordinates](GCNow_DarkMode.jpg "Dark Mode")
 
 ---
 
@@ -270,6 +270,6 @@ For production:
 
 **Current Version:** 2.4.1
 
-**CVS/SVN Info:** `$Id: README.md,v 1.16 2026/05/03 20:16:37 ralph Exp $`
+**CVS/SVN Info:** `$Id: README.md,v 2.4 2026/05/05 08:32:57 ralph Exp $`
 
 **(C) 2000-2026 by ROSE_SWE, Ralph Roth. All rights reserved.**

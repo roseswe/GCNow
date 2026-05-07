@@ -1,4 +1,5 @@
-// GCNow! - Geocaching Helper App v2.4.0
+// GCNow! - Geocaching Helper App v2.4.1 -- _VERSION_
+// @(#) $Id: MainActivity.kt,v 2.4 2026/05/05 08:23:36 ralph Exp $
 // Optimized for Android 15/16 (16KB Aligned)
 // Features: 25 Curated Themes, Live Camera (Screenshot Fixed), WGS84 GPS.
 

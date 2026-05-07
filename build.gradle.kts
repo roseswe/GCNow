@@ -1,4 +1,4 @@
-// $Header: /home/cvs/src/android/GCNow/build.gradle.kts,v 1.6 2026/04/22 14:12:43 ralph Exp $
+// $Header: /home/cvs/src/android/GCNow/build.gradle.kts,v 2.4 2026/05/05 08:34:19 ralph Exp $
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
