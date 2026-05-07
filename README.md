@@ -5,23 +5,32 @@
 > [!NOTE]
 > English description follows, Kurzübersicht in Deutsch weiter unten
 
-## GC Now! – Read Me – Geocache Helper App
+## GC Now! – Your Smart Geocaching Companion
 
-**GC Now!** was created to solve a practical problem: displaying the current
-date and time together with your Geocaching nickname — and, if desired, your
-personal geocache QR code, profile picture, or logo. The main inspiration was
-**Virtual Caches**, where a proof photo often needs to show your GC nickname,
-the date, and the cache. Since I always have my smartphones with me on
-spontaneous trips, but rarely paper and pen, **GC Now!** became my solution:
-everything I need is right at hand.
+**GC Now!** was born out of a simple idea: an app that shows your current date,
+time, and geocaching nickname at a glance—optionally enhanced with your
+personal geocache QR code, profile picture, or custom logo.
 
-**GC Now!** is a fast and flexible app for Android 12 and later. With its clean,
-high-contrast design and extensive customization options, it offers an ideal way
-to display real-time data in an attractive, personalized form on a mobile
-device. You can switch between light and dark mode, personalize your Geocaching
-nickname, upload your own image, and choose the background color freely — so the
-app is not only functional, but also truly _yours_. The app requires no
+The inspiration came mainly from **virtual caches**, where a proof photo is
+often required showing your nickname, the date, and the cache. On spontaneous
+trips, I usually have my smartphone with me—but rarely pen and paper. **GC
+Now!** solves exactly that problem: everything you need, ready to go, right in
+your pocket.
+
+The app is fast, flexible, and optimized for **Android 12 and above**. A clean,
+high-contrast design meets extensive customization options. You can easily
+switch between light and dark mode, personalize your geocaching nickname,
+upload your own images, and freely choose colors—making **GC Now!** not only
+practical but truly yours. Your privacy is fully respected: the app requires no
 additional permissions and does not transmit any data.
+
+For use out in the field, **GC Now!** includes practical features: For
+**traditional and virtual caches**, you can display GPS coordinates via a
+slider and instantly create a screenshot.  For **mystery or multi-caches**, you
+can simply hide the coordinates and instead use the built-in live camera with
+screenshot functionality — perfect for quickly capturing a clear and reliable
+“log proof.”
+
 
 ## Installing the APK on Android
 
@@ -48,26 +57,34 @@ additional permissions and does not transmit any data.
 
 ---
 
-## GC Now! – Lies mich – Geocache-Helfer-App
+## GC Now! – Dein smarter Geocache-Begleiter
 
-**GC Now!** entstand aus einem praktischen Bedürfnis: eine App zu schaffen, die
-das aktuelle Datum und die Uhrzeit zusammen mit deinem Geocaching-Nickname
-anzeigt — und auf Wunsch zusätzlich deinen persönlichen Geocache-QR-Code, dein
-Profilbild oder dein Logo einblendet. Die wichtigste Inspiration waren
-**Virtuelle Caches**, bei denen oft ein Beweisfoto verlangt wird, auf dem
-GC-Nickname, Datum und Cache erkennbar sind. Da ich bei spontanen Touren häufig
-ein Smartphones, aber selten Papier und Stift dabeihabe, wurde die App zu
-meiner Lösung: Mit **GC Now!** habe ich alles Notwendige direkt griffbereit.
+**GC Now!** entstand aus einem ganz einfachen Bedürfnis: einer App, die dir auf
+einen Blick Datum, Uhrzeit und deinen Geocaching-Nickname anzeigt – ergänzt auf
+Wunsch durch deinen persönlichen Geocache-QR-Code, dein Profilbild oder dein
+eigenes Logo.
 
-**GC Now!** ist eine schnelle und flexible App für Android 12 und höher. Mit
-ihrem klaren, kontrastreichen Design und umfangreichen Anpassungsmöglichkeiten
-bietet sie eine ideale Lösung für alle, die Echtzeitdaten ansprechend und
-individuell auf ihrem mobilen Gerät darstellen möchten. Neben einem einfachen
-Wechsel zwischen Hell- und Dunkelmodus kannst du in **GC Now!** jedes Detail
-nach deinen Wünschen gestalten: deinen Geocaching-Nicknamen personalisieren, ein
-eigenes Bild hochladen und die Hintergrundfarbe frei festlegen — damit die App
-nicht nur funktional, sondern auch ganz _deins_ ist. Die App benötigt keine
-zusätzlichen Berechtigungen und überträgt keine Daten.
+Die Idee dahinter kam vor allem durch **virtuelle Caches**, bei denen häufig
+ein Beweisfoto erforderlich ist, auf dem Nickname, Datum und Cache erkennbar
+sind. Gerade bei spontanen Touren habe ich zwar fast immer mein Smartphone
+dabei – aber selten Papier und Stift. **GC Now!** wurde genau dafür entwickelt:
+alles Wichtige direkt zur Hand, jederzeit einsatzbereit.
+
+Die App ist schnell, flexibel und für **Android 12 und höher** optimiert. Ein
+klares, kontrastreiches Design trifft auf umfangreiche Anpassungsmöglichkeiten.
+Du kannst mühelos zwischen Hell- und Dunkelmodus wechseln, deinen
+Geocaching-Nickname individuell gestalten, eigene Bilder einbinden und Farben
+frei wählen – so wird **GC Now!** nicht nur praktisch, sondern auch ganz
+persönlich. Dabei bleibt deine Privatsphäre gewahrt: Die App benötigt keine
+zusätzlichen Berechtigungen und überträgt keinerlei Daten.
+
+Für den Einsatz im Gelände bietet **GC Now!** praktische Zusatzfunktionen: Bei
+**Tradis und virtuellen Caches** kannst du per Schieberegler die
+GPS-Koordinaten einblenden und direkt einen Screenshot erstellen.  Bei
+**Mystery- oder Multi-Caches** blendest du die Koordinaten einfach aus und
+nutzt stattdessen die integrierte Live-Kamera mit Screenshot-Funktion – ideal,
+um schnell und unkompliziert einen aussagekräftigen „Logproof“ festzuhalten.
+
 
 ## Installation der APK auf Android
 
@@ -98,7 +115,8 @@ zusätzlichen Berechtigungen und überträgt keine Daten.
 
 ## App Screen Examples
 
-![light](GCNow_LightMode.png "Light Mode") ![dark mode, with GPS co-ordinates](GCNow_DarkMode.jpg "Dark Mode")
+![light mode with live camera](GCNow_LightMode.jpg "Light Mode with live camera")
+![dark mode, with GPS co-ordinates](GCNow_DarkMode.jpg "Dark Mode with GPS co-ordinate")
 
 ---
 
