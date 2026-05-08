@@ -1,30 +1,30 @@
-<!-- // @(#) $Id: README.md,v 2.4 2026/05/05 08:32:57 ralph Exp $ -->
+<!-- // @(#) $Id: README.md,v 2.5 2026/05/07 15:41:01 ralph Exp $ -->
 
-# GC-Now App
+# GCNow! App
 
 > [!NOTE]
 > English description follows, Kurzübersicht in Deutsch weiter unten
 
-## GC Now! – Your Smart Geocaching Companion
+## GCNow! – Your Smart Geocaching Companion
 
-**GC Now!** was born out of a simple idea: an app that shows your current date,
+**GCNow!** was born out of a simple idea: an app that shows your current date,
 time, and geocaching nickname at a glance—optionally enhanced with your
 personal geocache QR code, profile picture, or custom logo.
 
 The inspiration came mainly from **virtual caches**, where a proof photo is
 often required showing your nickname, the date, and the cache. On spontaneous
-trips, I usually have my smartphone with me—but rarely pen and paper. **GC
-Now!** solves exactly that problem: everything you need, ready to go, right in
-your pocket.
+trips, I usually have my smartphone with me—but rarely pen and paper.
+**GCNow!** solves exactly that problem: everything you need, ready to go, right
+in your pocket.
 
 The app is fast, flexible, and optimized for **Android 12 and above**. A clean,
 high-contrast design meets extensive customization options. You can easily
 switch between light and dark mode, personalize your geocaching nickname,
-upload your own images, and freely choose colors—making **GC Now!** not only
+upload your own images, and freely choose colors—making **GCNow!** not only
 practical but truly yours. Your privacy is fully respected: the app requires no
 additional permissions and does not transmit any data.
 
-For use out in the field, **GC Now!** includes practical features: For
+For use out in the field, **GCNow!** includes practical features: For
 **traditional and virtual caches**, you can display GPS coordinates via a
 slider and instantly create a screenshot.  For **mystery or multi-caches**, you
 can simply hide the coordinates and instead use the built-in live camera with
@@ -36,7 +36,7 @@ screenshot functionality — perfect for quickly capturing a clear and reliable
 
 1. **Download the APK**
    Download the desired APK file directly from the
-   [GCNow Releases](https://github.com/roseswe/GCNow/releases) page — either on
+   [GCNow! Releases](https://github.com/roseswe/GCNow/releases) page — either on
    your Android device or via PC, then transfer it to your device.
 
 2. **Prepare for Installation**
@@ -57,9 +57,9 @@ screenshot functionality — perfect for quickly capturing a clear and reliable
 
 ---
 
-## GC Now! – Dein smarter Geocache-Begleiter
+## GCNow! – Dein smarter Geocache-Begleiter
 
-**GC Now!** entstand aus einem ganz einfachen Bedürfnis: einer App, die dir auf
+**GCNow!** entstand aus einem ganz einfachen Bedürfnis: einer App, die dir auf
 einen Blick Datum, Uhrzeit und deinen Geocaching-Nickname anzeigt – ergänzt auf
 Wunsch durch deinen persönlichen Geocache-QR-Code, dein Profilbild oder dein
 eigenes Logo.
@@ -67,18 +67,18 @@ eigenes Logo.
 Die Idee dahinter kam vor allem durch **virtuelle Caches**, bei denen häufig
 ein Beweisfoto erforderlich ist, auf dem Nickname, Datum und Cache erkennbar
 sind. Gerade bei spontanen Touren habe ich zwar fast immer mein Smartphone
-dabei – aber selten Papier und Stift. **GC Now!** wurde genau dafür entwickelt:
+dabei – aber selten Papier und Stift. **GCNow!** wurde genau dafür entwickelt:
 alles Wichtige direkt zur Hand, jederzeit einsatzbereit.
 
 Die App ist schnell, flexibel und für **Android 12 und höher** optimiert. Ein
 klares, kontrastreiches Design trifft auf umfangreiche Anpassungsmöglichkeiten.
 Du kannst mühelos zwischen Hell- und Dunkelmodus wechseln, deinen
 Geocaching-Nickname individuell gestalten, eigene Bilder einbinden und Farben
-frei wählen – so wird **GC Now!** nicht nur praktisch, sondern auch ganz
+frei wählen – so wird **GCNow!** nicht nur praktisch, sondern auch ganz
 persönlich. Dabei bleibt deine Privatsphäre gewahrt: Die App benötigt keine
 zusätzlichen Berechtigungen und überträgt keinerlei Daten.
 
-Für den Einsatz im Gelände bietet **GC Now!** praktische Zusatzfunktionen: Bei
+Für den Einsatz im Gelände bietet **GCNow!** praktische Zusatzfunktionen: Bei
 **Tradis und virtuellen Caches** kannst du per Schieberegler die
 GPS-Koordinaten einblenden und direkt einen Screenshot erstellen.  Bei
 **Mystery- oder Multi-Caches** blendest du die Koordinaten einfach aus und
@@ -90,7 +90,7 @@ um schnell und unkompliziert einen aussagekräftigen „Logproof“ festzuhalten
 
 1. **APK herunterladen**
    Lade die gewünschte APK-Datei direkt von den
-   [GCNow Releases](https://github.com/roseswe/GCNow/releases) herunter — entweder
+   [GCNow! Releases](https://github.com/roseswe/GCNow/releases) herunter — entweder
    über dein Android-Gerät oder per PC mit anschließender Übertragung.
 
 2. **Installation vorbereiten**
@@ -171,7 +171,7 @@ minimal battery impact while maintaining precision.
 
 ### 4. Advanced Persistence & Permissions
 
-Unlike standard image pickers, **GC Now!** requests **Persistable URI
+Unlike standard image pickers, **GCNow!** requests **Persistable URI
 Permissions**. This allows the app to retain access to user-selected gallery
 images even after a full device reboot without requiring a permanent "All Files
 Access" permission.
@@ -270,7 +270,7 @@ For production:
 
 ## 📁 Repository Structure
 
-[Github Repository of GCNow](https://github.com/roseswe/GCNow)
+[Github Repository of GCNow!](https://github.com/roseswe/GCNow)
 
 - `MainActivity.kt`: Contains the core UI logic, state management, permission handling, and GPS display logic.
 - `AndroidManifest.xml`: Configured for `Edge-to-Edge` display, URI persistence, and location permissions.
@@ -288,6 +288,6 @@ For production:
 
 **Current Version:** 2.4.1
 
-**CVS/SVN Info:** `$Id: README.md,v 2.4 2026/05/05 08:32:57 ralph Exp $`
+**CVS/SVN Info:** `$Id: README.md,v 2.5 2026/05/07 15:41:01 ralph Exp $`
 
 **(C) 2000-2026 by ROSE_SWE, Ralph Roth. All rights reserved.**
